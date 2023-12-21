@@ -71,6 +71,10 @@ favorite hobby in the highest regard. Specifiically, smuggling for the Maquis.
 - Deaf from birth, uses a cochlear implant that is not 100% reliable and is not
   the most comfortable to use. Needs repaired from time to time
 - Inspirations: Firefly crew, Mad Max: Fury Road
+- Skilled in astronomy due to needing to navigate by uncharted paths to avoid
+  notice while smuggling
+- Skilled in linguistics due to challenges communicating
+  - Specifically fluent in sign language
 
 ## Character Arc
 

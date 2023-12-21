@@ -1,4 +1,4 @@
-# Subi Yita
+# Provisional Ensign Subi Yita
 
 - [Character Notes](./CHARACTER_NOTES.md)
 - [BACKGROUND](./BACKGROUND.md)
@@ -16,5 +16,7 @@ mindmap
       id(Ambivalent on the Federation)
     id(Deaf)
       id(Unreliable implant)
-      id(Lingustics)
+      id(Linguistics)
+      id(Perceptive)
+        id(Avoids conflicts)
 ```
